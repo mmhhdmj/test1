@@ -12,7 +12,7 @@ void printbinary(int val)
 int main()
 {
 
-printbinary(4);
+printbinary(5);
 
 	return 0;
 }
